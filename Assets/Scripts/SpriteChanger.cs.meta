@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80b45f54f89b8fb4fb88d8a115a85cae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - oneHealthPoint: {instanceID: 0}
+  - twoHealthPoints: {instanceID: 0}
+  - threeHealthPoints: {instanceID: 0}
+  - hero: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
